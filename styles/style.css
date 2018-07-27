@@ -87,7 +87,7 @@ body {
 
 #main-home{
 	line-height: 500px;
-	background-image: url("/Users/prakash/Documents/Website/images/bhg1.jpg");
+	background-image: url("../images/bhg1.jpg");
 	height:700px;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -225,7 +225,7 @@ i.fa.fa-file:hover{
 
 
 #uf{
-	background: url('/Users/prakash/Documents/Website/images/uflogo.png');
+	background: url('../images/uflogo.png');
 	background-position: center;
 	background-size:160px 170px;
 	min-width: 170px;
@@ -239,7 +239,7 @@ i.fa.fa-file:hover{
 }
 
 #ib{
-	background: url('/Users/prakash/Documents/Website/images/ib.png');
+	background: url('../images/ib.png');
 	background-position: center;
 	background-size:160px 170px;
 	min-width: 170px;
@@ -253,7 +253,7 @@ i.fa.fa-file:hover{
 }
 
 #stanton{
-	background: url('/Users/prakash/Documents/Website/images/stanton.jpg');
+	background: url('../images/stanton.jpg');
 	background-position: center;
 	background-size:160px 170px;
 	min-width: 170px;
@@ -301,7 +301,7 @@ i.fa.fa-file:hover{
 
 
 #finder{
-	background: url('/Users/prakash/Documents/Website/images/FinderLogo.png');
+	background: url('../images/FinderLogo.png');
 	background-position: center;
 	background-size:176.5px 323.5px;
 	min-width: 186.5px;
@@ -315,7 +315,7 @@ i.fa.fa-file:hover{
 }
 
 #yelpit{
-	background: url('/Users/prakash/Documents/Website/images/Yelp-0.png');
+	background: url('../images/Yelp-0.png');
 	background-position: center;
 	background-size:176.5px 323.5px;
 	min-width: 186.5px;
@@ -329,7 +329,7 @@ i.fa.fa-file:hover{
 }
 
 #githubrepo{
-	background: url('/Users/prakash/Documents/Website/images/repo-5.png');
+	background: url('../images/repo-5.png');
 	background-position: center;
 	background-size:176.5px 323.5px;
 	min-width: 186.5px;
@@ -343,7 +343,7 @@ i.fa.fa-file:hover{
 }
 
 #movieflicks{
-	background: url('/Users/prakash/Documents/Website/images/Flicks2-3.png');
+	background: url('../images/Flicks2-3.png');
 	background-position: center;
 	background-size:176.5px 323.5px;
 	min-width: 186.5px;
@@ -357,7 +357,7 @@ i.fa.fa-file:hover{
 }
 
 #tipper{
-	background: url('/Users/prakash/Documents/Website/images/clip-0.png');
+	background: url('../images/clip-0.png');
 	background-position: center;
 	background-size:176.5px 323.5px;
 	min-width: 186.5px;
